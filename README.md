@@ -2,6 +2,10 @@
 
 A frontend clone of the Myntra e-commerce website created using HTML and CSS.
 
+ 🌐 Live Demo
+
+[View Myntra Frontend Clone](https://b-east-28.github.io/myntra-frontend-clone/)
+
  📌 About the Project
 
 This project was created to practice frontend web development and improve my understanding of HTML, CSS, webpage layouts, and Flexbox.
