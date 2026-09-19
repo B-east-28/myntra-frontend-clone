@@ -36,7 +36,7 @@ myntra-frontend-clone/
 │   └── offers/
 │
 ├── myntra.css
-├── myntra_clone.html
+├── index.html
 └── README.md
 ```
  🖥️ Project Preview
@@ -47,7 +47,7 @@ myntra-frontend-clone/
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Open `myntra_clone.html` in a web browser.
+3. Open `index.html` in a web browser.
 
  🎯 What I Learned
 
