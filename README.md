@@ -35,6 +35,9 @@ myntra-frontend-clone/
 ├── myntra_clone.html
 └── README.md
 ```
+ 🖥️ Project Preview
+
+![Myntra Frontend Clone Preview](images/myntra-preview.png)
 
  🚀 How to Run
 
